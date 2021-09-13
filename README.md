@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @ss7box - a software developer - been at it a while and still enjoy making things work
-- 👀 I’m interested in building embedded systems, security systems, automation, comms protocols
-- 🌱 I’m currently learning golang, AWS S3
-- 💞️ I’m looking to collaborate on projects using C, Python, Go
-- 📫 How to reach me: ss7box@gmail.com
+- BSEE
+- Software - like forever
+- Areas: digital telephony, system start-up, embedded subsytems, trunk call-setup protocols, protocol conversion, protocol verification and monitoring, MTP2 implementation in Linux kernel module, protocol man-in-the-middle applications, embedded Openssl SSL/TLS, managed file transfer, test automation
+- Current Status: 1099-NEC subcontractor to USPS
+- Languages: C, C++, Python, Makefile, bash, batch, Powershell, Nortel SL1
+- Virtualization: VirtualBox, VMware Vshpere Cloud vRA
+- Source verson control: git, svn, sccs
+- OS: Linux, Windows
+- RTOS: Windriver, Finite State Machine in a forever-loop
+- Products: Nortel DMS10, Tekelec Eagle, Xygnada ss7box, USPS AFT
+- Protocols: ITU SS7, ANSI SS7, IP, TCP, UDP, SCTP, X.509
+- Learning: Golang, git, AWS
 
 <!---
 ss7box/ss7box is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
